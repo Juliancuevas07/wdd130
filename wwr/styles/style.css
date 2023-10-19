@@ -1,0 +1,13 @@
+#content{
+ max-width: 1600px;
+margin: 0 auto; 
+background-color: rgba(62, 94, 134, 0.705);  
+}
+nav a,#hero-msg h1, #hero-msg h4,.button-box,main section{
+    text-align: center;
+
+}
+
+#background {
+    height: 725px;
+}
